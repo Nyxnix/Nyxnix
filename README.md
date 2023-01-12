@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyxnix&label=Profile%20views&color=0e75b6&style=flat" alt="nyxnix" /> </p>
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **flask**
 - 🤔 I'm interested in learning **electron**
 - 🌊 Enjoyer of **Linux(Server & Desktop), macOS, and automating things**
 - ⚡ Misc skills **Video editing in Adobe Premiere/DaVinci Resolve**
