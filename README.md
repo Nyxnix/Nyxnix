@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nyx</h1>
-<h3 align="center">some weeb programmer and video editor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyxnix&label=Profile%20views&color=0e75b6&style=flat" alt="nyxnix" /> </p>
 
-- 🤔 I'm currently learning **Flask, React/Vue.js, and C#**
-- 🌊 Enjoyer of **Linux(Server & Desktop), macOS, and automating things**
+- 🤔 I'm currently learning **Docker, Flask, and general python things**
+- 🌊 Enjoyer of **Linux(Server & Desktop) and automating things**
 - ⚡ Misc skills **Video editing in Adobe Premiere/DaVinci Resolve**
 - ⛺︎ 日本語は少し話せいます
 
